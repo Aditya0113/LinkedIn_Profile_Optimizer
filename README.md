@@ -1,1 +1,1 @@
-# LinkedIn_profile
+An AI-powered web application built using HTML, CSS, and JavaScript that analyzes and enhances LinkedIn profiles. It provides personalized recommendations to improve visibility, headline, summary, skills, and keyword alignment using AI APIs like Gemini. Designed to boost professional appeal and recruiter engagement.
